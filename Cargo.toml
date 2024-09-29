@@ -1,0 +1,8 @@
+[package]
+name = "tuitl"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cursive = "0.21.1"
+cursive-tabs = "0.8.0"
